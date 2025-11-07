@@ -9,3 +9,4 @@ Aquí trabajaremos conceptos de POO, manejo de archivos y estructuras de datos e
 - Ana Gómez
 - Juan Pérez
 - Laura Torres
+p
